@@ -3,12 +3,12 @@
 <?= $this->section('content') ?>
 
 <div class="col-md-12">
-    <div class="card card-primary">
+    <div class="card card-secondary">
         <div class="card-header">
             <h3 class="card-title"><?= $subtitle ?></h3>
 
             <div class="card-tools">
-                <button type="button" class="btn btn-tool" data-toggle="modal" data-target="#tambah-data"><i
+                <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#tambah-data"><i
                         class="fas fa-plus"></i> Tambah Data
                 </button>
             </div>
